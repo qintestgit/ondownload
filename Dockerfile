@@ -1,0 +1,11 @@
+From  gcr.io/google-samples/microservices-demo/emailservice
+From  gcr.io/google-samples/microservices-demo/checkoutservice
+From  gcr.io/google-samples/microservices-demo/recommendationservice
+From  gcr.io/google-samples/microservices-demo/frontend
+From  gcr.io/google-samples/microservices-demo/paymentservice
+From  gcr.io/google-samples/microservices-demo/productcatalogservice
+From  gcr.io/google-samples/microservices-demo/cartservice
+From  gcr.io/google-samples/microservices-demo/loadgenerator
+From  gcr.io/google-samples/microservices-demo/currencyservice
+From  gcr.io/google-samples/microservices-demo/shippingservice
+From  gcr.io/google-samples/microservices-demo/adservice
